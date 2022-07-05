@@ -1,0 +1,5 @@
+- 👋 Hi, I’m MajidAhmadit
+- 👀 I’m interested in DevOps Engineering
+- 🌱 I’m currently learning Git,Jenkins and AWS
+- 💞️ I’m looking to collaborate on Cload Based Company in Toronto
+- 📫 You can reach me on mobile : +1(437)971-4045
