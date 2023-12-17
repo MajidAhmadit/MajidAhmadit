@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MajidAhmadit
+- 👋 Hi, I’m Majid Ahmadi
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Git,Jenkins and AWS
 - 💞️ I’m looking to collaborate on devOps team and Cloud Based Company in Toronto
